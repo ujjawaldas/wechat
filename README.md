@@ -10,7 +10,7 @@ Chat Application built using node.js , express and socket.io
 Features
 ---
 * A Real-time chat application.
-* Mutiple users can join and chat in one room .
+* Multiple users can join and chat in one room .
 How to run
 ---
 1. download the code then extract
